@@ -111,9 +111,7 @@ slick-next {
   height: 70px;
   border-radius:50%;
   border:2px solid #fcf4e8;
-  text-align:center;
-  
-  
+  text-align:center; 
 }
 		.img-logo a{/*            positions the link so it can cover the whole image logo                             */
 		     
